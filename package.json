@@ -9,7 +9,7 @@
         "lint": "next lint"
     },
     "dependencies": {
-        "globby": "^13.1.1",
+        "globby": "^13.1.2",
         "goober": "^2.1.9",
         "html-react-parser": "^1.4.12",
         "kbar": "^0.1.0-beta.34",
